@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "notas_app",
+    "slug": "notas_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
